@@ -1,4 +1,5 @@
-#Expo Sentry Demo
+# Expo Sentry Demo
+A simple project demonstrating testing a Sentry connection on a development build
 
 ## Setting up Sentry keys
 - Edit **app.json**, providing your Sentry account and project-specific keys
